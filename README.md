@@ -4,16 +4,16 @@
 Java · Spring Boot · MyBatis · Spring Security · JWT · OAuth2 · WebSocket(STOMP)
 
 **Frontend**  
-React · Vite · React Router · TanStack Query · Zustand · Axios · MUI
+React · Vite · React Query · Zustand · Axios · MUI
 
 **Database**  
 MySQL
 
 **Infra**  
-AWS EC2 · Docker · Nginx · HTTPS/SSL
+Docker · Nginx
 
 **External APIs**  
-Kakao Map API · Firebase Storage · Google OAuth2 · Naver OAuth2 · Gemini API
+Kakao Map API · Firebase Storage · Gemini API
 
-**Tools**  
-Git · GitHub · Postman · IntelliJ IDEA · VS Code
+**Version Control**  
+Git · GitHub
