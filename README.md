@@ -10,7 +10,7 @@ React · Vite · React Query · Zustand · Axios · MUI
 MySQL
 
 **Infra**  
-Docker · Nginx
+Docker · Nginx · GCP · GitHub Actions
 
 **External APIs**  
 Kakao Map API · Firebase Storage · Gemini API
