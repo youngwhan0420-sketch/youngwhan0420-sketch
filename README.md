@@ -25,10 +25,10 @@ Kakao Map 기반 러닝 코스 공유 + 실시간 채팅 커뮤니티 서비스
 > 
 > 부모의 목소리를 복제하여 감정 풍부하게 읽어주는 태블릿 기반 인터랙티브 구연동화 서비스
 ## 🛠 Tech Stack
-- FastAPI 기반으로 동화 목록, 음성 등록, TTS 스트리밍, 퀴즈 API 구현
-- React + Vite 기반 태블릿형 동화 UI 구성
-- MediaRecorder API를 활용해 부모 음성 녹음 기능 구현
-- DashScope Qwen3 TTS API를 활용해 부모 목소리 등록 및 음성 합성 처리
-- Pydub + FFmpeg를 활용해 녹음 파일을 16kHz mono WAV 형식으로 변환
-- StreamingResponse를 활용해 장면별 음성 데이터를 스트리밍 방식으로 전달
-- Docker 기반 Hugging Face Spaces 배포 환경 구성
+- **FastAPI** 기반으로 동화 목록, 음성 등록, TTS 스트리밍, 퀴즈 API 구현
+- **React + Vite** 기반 태블릿형 동화 UI 구성
+- **MediaRecorder** API를 활용해 부모 음성 녹음 기능 구현
+- **DashScope Qwen3** TTS API를 활용해 부모 목소리 등록 및 음성 합성 처리
+- **Pydub + FFmpeg**를 활용해 녹음 파일을 16kHz mono WAV 형식으로 변환
+- **StreamingResponse**를 활용해 장면별 음성 데이터를 스트리밍 방식으로 전달
+- **Docker** 기반 Hugging Face Spaces 배포 환경 구성
