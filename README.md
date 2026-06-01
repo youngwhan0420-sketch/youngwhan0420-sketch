@@ -73,8 +73,8 @@ React 연동과 Docker 기반 배포 경험을 함께 쌓고 있습니다.
 `Java` `Spring Boot` `MyBatis` `Spring Security` `JWT` `OAuth2`  
 `React` `React Query` `Zustand` `Axios` `MySQL`  
 `WebSocket(STOMP)` `Docker` `Nginx` `GCP` `GitHub Actions`
-- 백엔드: [Route In Backend](https://github.com/youngwhan0420-sketch/https://github.com/Koreait-Triple-Stack/route_in_backend)
-- 프론트엔드: [Route In Frontend](https://github.com/youngwhan0420-sketch/https://github.com/Koreait-Triple-Stack/route_in_frontend)
+- 백엔드: [Route In Backend](https://github.com/Koreait-Triple-Stack/route_in_backend)
+- 프론트엔드: [Route In Frontend](https://github.com/Koreait-Triple-Stack/route_in_frontend)
 - 배포주소: [Route In Service](https://routein1.store)
 ---
 
