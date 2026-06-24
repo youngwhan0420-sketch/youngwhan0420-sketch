@@ -114,6 +114,16 @@ React 연동과 Docker 기반 배포 경험을 함께 쌓고 있습니다.
 `Python` `FastAPI` `Uvicorn` `React` `Vite`  
 `MediaRecorder API` `DashScope Qwen3 TTS` `Pydub` `FFmpeg`  
 `Docker` `Hugging Face Spaces`
+<table>
+  <tr>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/youngwhan0420-sketch/mama-papa-tellar">mama-papa-tellar</a></td>
+  </tr>
+  <tr>
+    <td><b>프로젝트 설명</b></td>
+    <td><a href="https://www.notion.so/387bbc0a68c7809e9121c07debba6231">Mama Papa Teller Notion 정리</a></td>
+  </tr>
+</table>
 
 ---
 
