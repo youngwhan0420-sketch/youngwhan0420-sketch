@@ -73,12 +73,24 @@ React 연동과 Docker 기반 배포 경험을 함께 쌓고 있습니다.
 `Java` `Spring Boot` `MyBatis` `Spring Security` `JWT` `OAuth2`  
 `React` `React Query` `Zustand` `Axios` `MySQL`  
 `WebSocket(STOMP)` `Docker` `Nginx` `GCP` `GitHub Actions`
-| 구분       | 링크                 |
-| -------- | ------------------ |
-| Backend  | route-in-backend   |
-| Frontend | route-in-frontend  |
-| 배포 주소    | Route In 바로가기      |
-| 프로젝트 설명  | Route In Notion 정리 |
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><a href="https://github.com/youngwhan0420-sketch/route-in-backend">route-in-backend</a></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><a href="https://github.com/youngwhan0420-sketch/route-in-frontend">route-in-frontend</a></td>
+  </tr>
+  <tr>
+    <td><b>배포 주소</b></td>
+    <td><a href="https://routein1.store">Route In 바로가기</a></td>
+  </tr>
+  <tr>
+    <td><b>프로젝트 설명</b></td>
+    <td><a href="https://www.notion.so/Route-In-2fc7935ce51c800289a0f6f3e2e8be20">Route In Notion 정리</a></td>
+  </tr>
+</table>
 
 ---
 
